@@ -1,0 +1,13 @@
+h1 {
+	color: #1f04b0;
+}
+
+.container {
+	background-color: grey;
+	width: 500px;
+	border: 15px solid black;
+	padding: 50px;
+	text-align: left;
+	margin-bottom: 60px;
+
+}
